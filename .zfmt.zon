@@ -1,0 +1,6 @@
+.{
+    .indent_delta = 4,
+    .asm_indent_delta = 2,
+    .brace_style = .k_and_r,
+    .space_around_ops = true,
+}

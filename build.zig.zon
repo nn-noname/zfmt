@@ -1,0 +1,14 @@
+.{
+    .name = .zfmt,
+    .version = "0.0.0",
+    .fingerprint = 0xeea788b98995e1b9, // Changing this has security and trust implications.
+    .minimum_zig_version = "0.15.1",
+
+    .dependencies = .{},
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
