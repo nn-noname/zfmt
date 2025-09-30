@@ -44,7 +44,7 @@ I made this formatter in less than a day (12 hours or so)
 so there is probably some issues, if you encounter any then make an issue or a pull request.
 
 ## "Consistency matters more! zig fmt was made so we have 1 coding style!"
-Please, get these discussions out of this git repo, I fundamentally disagree with that idea.
+I fundamentally disagree with that idea.
 
 Tool inflexibility often breaks off ecosystems more than unify together, zfmt is a prime example of that.
 
