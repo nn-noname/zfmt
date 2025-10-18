@@ -43,13 +43,11 @@ I made this formatter in less than a day (12 hours or so)
 
 so there is probably some issues, if you encounter any then make an issue or a pull request.
 
-## Why make this/"Consistency matters more! zig fmt was made so we have 1 coding style!"
-I fundamentally disagree with that idea.
-
-Tool inflexibility often breaks off ecosystems more than unify together, zfmt is a prime example of that.
+## Why make this?
+Tool inflexibility often breaks off ecosystems more than unify together.
 
 I myself before making zfmt forked the entire zig compiler just to get 8 space indentation
 
 I think that the fact zig is so opinionated is its biggest flaw.
 
-If you disagree, then just use the opinionated zig fmt.
+If you disagree, then thats fine :D, just use the opinionated zig fmt.
